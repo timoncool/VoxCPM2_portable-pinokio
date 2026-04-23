@@ -103,7 +103,7 @@ Full feature list: **[App repo → README](https://github.com/timoncool/VoxCPM2_
 
 ## Support the author
 
-This launcher and the app itself are **100% free, local, open-source**. Your donation lets me focus on building:
+If this saved you hours of dependency-juggling, consider a donation:
 
 [![Donate Card](https://img.shields.io/badge/Card_%2F_PayPal-dalink.to-29ABE2?style=for-the-badge&logo=paypal&logoColor=white)](https://dalink.to/nerual_dreming)
 [![Boosty](https://img.shields.io/badge/Monthly-Boosty-F15F2C?style=for-the-badge)](https://boosty.to/neuro_art)
