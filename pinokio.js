@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
   version: "6.0.0",
   title: "VoxCPM2 Portable",
-  description: "Multilingual TTS (30 languages incl. Russian) with Voice Design, Voice Cloning, and end-to-end LoRA fine-tuning (video/audio → dataset → training). Local, private, free.",
+  description: "ElevenLabs at home. Multilingual TTS with Voice Design, Voice Cloning, and end-to-end LoRA fine-tuning straight from a video or podcast. Built on VoxCPM2 by OpenBMB. 30 languages incl. Russian.",
   icon: "icon.jpg",
   menu: async (kernel, info) => {
     let installed = info.exists("app/env")
