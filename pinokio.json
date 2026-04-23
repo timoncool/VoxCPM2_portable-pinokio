@@ -2,9 +2,7 @@
   "title": "VoxCPM2 Portable",
   "description": "ElevenLabs at home. Multilingual TTS with Voice Design, Voice Cloning, and end-to-end LoRA fine-tuning straight from a video or podcast. Built on VoxCPM2 by OpenBMB. 30 languages incl. Russian.",
   "icon": "icon.jpg",
-  "posts": [
-    "https://github.com/timoncool/VoxCPM2_portable/raw/main/docs/hero.png"
-  ],
+  "posts": [],
   "links": [
     {
       "title": "VoxCPM2 Portable (app)",
