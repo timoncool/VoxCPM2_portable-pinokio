@@ -101,14 +101,15 @@ Full feature list: **[App repo → README](https://github.com/timoncool/VoxCPM2_
 - 🚀 **Pinokio** — [pinokio.co](https://pinokio.co/)
 - 🎵 **Sister launcher** — [ACE-Step-Studio-pinokio](https://github.com/timoncool/ACE-Step-Studio-pinokio) (local AI music generation)
 
-## Support the author
+## Support This Project
 
-This launcher and the app itself are **100% free, local, open-source**. Your donation lets me focus on building:
+I build software and do research in AI and music/voice generation. Most of what I create is free and open source. Your donations allow me to keep creating and exploring without worrying about where the next meal comes from =)
 
-[![Donate Card](https://img.shields.io/badge/Card_%2F_PayPal-dalink.to-29ABE2?style=for-the-badge&logo=paypal&logoColor=white)](https://dalink.to/nerual_dreming)
-[![Boosty](https://img.shields.io/badge/Monthly-Boosty-F15F2C?style=for-the-badge)](https://boosty.to/neuro_art)
+**[All donation methods](DONATE.md)** | [dalink.to/nerual_dreming](https://dalink.to/nerual_dreming) | [boosty.to/neuro_art](https://boosty.to/neuro_art)
 
-Full donation guide (EN/RU) with crypto addresses and QR codes: **[DONATE.md](DONATE.md)**
+- **BTC:** `1E7dHL22RpyhJGVpcvKdbyZgksSYkYeEBC`
+- **ETH (ERC20):** `0xb5db65adf478983186d4897ba92fe2c25c594a0c`
+- **USDT (TRC20):** `TQST9Lp2TjK6FiVkn4fwfGUee7NmkxEE7C`
 
 ## Author
 
