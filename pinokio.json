@@ -1,6 +1,6 @@
 {
   "title": "VoxCPM2 Portable",
-  "description": "ElevenLabs at home. Multilingual TTS with Voice Design, Voice Cloning, and end-to-end LoRA fine-tuning straight from a video or podcast. Built on VoxCPM2 by OpenBMB. 30 languages incl. Russian. 100% local, no cloud.",
+  "description": "ElevenLabs at home. Multilingual TTS with Voice Design, Voice Cloning, and end-to-end LoRA fine-tuning straight from a video or podcast. Built on VoxCPM2 by OpenBMB. 30 languages incl. Russian.",
   "icon": "icon.jpg",
   "posts": [
     "https://github.com/timoncool/VoxCPM2_portable/raw/main/docs/hero.png"
@@ -9,29 +9,68 @@
     {
       "title": "VoxCPM2 Portable (app)",
       "links": [
-        { "title": "GitHub repo",  "value": "https://github.com/timoncool/VoxCPM2_portable" },
-        { "title": "CHANGELOG",    "value": "https://github.com/timoncool/VoxCPM2_portable/blob/main/CHANGELOG.md" },
-        { "title": "Releases",     "value": "https://github.com/timoncool/VoxCPM2_portable/releases" },
-        { "title": "Report a bug", "value": "https://github.com/timoncool/VoxCPM2_portable/issues" }
+        {
+          "title": "GitHub repo",
+          "value": "https://github.com/timoncool/VoxCPM2_portable"
+        },
+        {
+          "title": "CHANGELOG",
+          "value": "https://github.com/timoncool/VoxCPM2_portable/blob/main/CHANGELOG.md"
+        },
+        {
+          "title": "Releases",
+          "value": "https://github.com/timoncool/VoxCPM2_portable/releases"
+        },
+        {
+          "title": "Report a bug",
+          "value": "https://github.com/timoncool/VoxCPM2_portable/issues"
+        }
       ]
     },
     {
       "title": "Author — Nerual Dreming",
       "links": [
-        { "title": "GitHub",           "value": "https://github.com/timoncool" },
-        { "title": "Telegram",         "value": "https://t.me/nerual_dreming" },
-        { "title": "ArtGeneration.me", "value": "https://artgeneration.me" },
-        { "title": "neuro-cartel.com", "value": "https://neuro-cartel.com" },
-        { "title": "Boosty (monthly)", "value": "https://boosty.to/neuro_art" },
-        { "title": "Donate (one-time)", "value": "https://dalink.to/nerual_dreming" }
+        {
+          "title": "GitHub",
+          "value": "https://github.com/timoncool"
+        },
+        {
+          "title": "Telegram",
+          "value": "https://t.me/nerual_dreming"
+        },
+        {
+          "title": "ArtGeneration.me",
+          "value": "https://artgeneration.me"
+        },
+        {
+          "title": "neuro-cartel.com",
+          "value": "https://neuro-cartel.com"
+        },
+        {
+          "title": "Boosty (monthly)",
+          "value": "https://boosty.to/neuro_art"
+        },
+        {
+          "title": "Donate (one-time)",
+          "value": "https://dalink.to/nerual_dreming"
+        }
       ]
     },
     {
       "title": "VoxCPM2 (base model)",
       "links": [
-        { "title": "VoxCPM2 on HuggingFace", "value": "https://huggingface.co/openbmb/VoxCPM2" },
-        { "title": "OpenBMB on GitHub",      "value": "https://github.com/OpenBMB" },
-        { "title": "Parakeet TDT ASR",       "value": "https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3" }
+        {
+          "title": "VoxCPM2 on HuggingFace",
+          "value": "https://huggingface.co/openbmb/VoxCPM2"
+        },
+        {
+          "title": "OpenBMB on GitHub",
+          "value": "https://github.com/OpenBMB"
+        },
+        {
+          "title": "Parakeet TDT ASR",
+          "value": "https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3"
+        }
       ]
     }
   ]
