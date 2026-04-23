@@ -7,9 +7,9 @@
 
 </div>
 
-This Pinokio launcher is part of the [ACE-Step Studio](https://github.com/timoncool/ACE-Step-Studio) project by **Nerual Dreming**.
+This Pinokio launcher is part of the [VoxCPM2 Portable](https://github.com/timoncool/VoxCPM2_portable) project by **Nerual Dreming**.
 
-If ACE-Step Studio saved you $10+/month you would have paid to Suno or Udio — please consider supporting the project:
+If VoxCPM2 Portable saved you the $22/month you would have paid to ElevenLabs or Resemble — please consider supporting the project:
 
 | Method | Link |
 |--------|------|
@@ -25,6 +25,7 @@ If ACE-Step Studio saved you $10+/month you would have paid to Suno or Udio — 
 | **USDT** (Tether, TRC20) | `TQST9Lp2TjK6FiVkn4fwfGUee7NmkxEE7C` |
 
 > 📖 **Full donation guide with QR codes (EN / RU):** [ACE-Step-Studio/DONATE.md](https://github.com/timoncool/ACE-Step-Studio/blob/master/DONATE.md)
+> *(same author — canonical master donation page)*
 
 ---
 
