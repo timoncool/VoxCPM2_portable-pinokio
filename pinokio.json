@@ -1,0 +1,29 @@
+{
+  "title": "VoxCPM2 Portable",
+  "description": "Multilingual TTS (30 languages incl. Russian) with Voice Design, Voice Cloning, and end-to-end LoRA fine-tuning (video/audio → dataset → training). Local, private, free.",
+  "icon": "icon.jpg",
+  "posts": [],
+  "links": [
+    {
+      "title": "VoxCPM2 Portable (app)",
+      "links": [
+        { "title": "GitHub", "url": "https://github.com/timoncool/VoxCPM2_portable" },
+        { "title": "Releases", "url": "https://github.com/timoncool/VoxCPM2_portable/releases" }
+      ]
+    },
+    {
+      "title": "Author — timoncool",
+      "links": [
+        { "title": "GitHub", "url": "https://github.com/timoncool" },
+        { "title": "Donate", "url": "https://github.com/timoncool/VoxCPM2_portable/blob/main/DONATE.md" }
+      ]
+    },
+    {
+      "title": "Base model — VoxCPM2",
+      "links": [
+        { "title": "VoxCPM2 on HuggingFace", "url": "https://huggingface.co/openbmb/VoxCPM2" },
+        { "title": "OpenBMB on GitHub", "url": "https://github.com/OpenBMB" }
+      ]
+    }
+  ]
+}
