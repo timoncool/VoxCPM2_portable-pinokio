@@ -125,11 +125,11 @@ I build software and do research in AI and music/voice generation. Most of what 
 
 ### Star History
 
-<a href="https://www.star-history.com/?repos=timoncool%2FVoxCPM2_portable,timoncool%2FVoxCPM2_portable-pinokio&type=date&legend=top-left">
+<a href="https://github.com/timoncool/VoxCPM2_portable-pinokio/stargazers">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=timoncool/VoxCPM2_portable,timoncool/VoxCPM2_portable-pinokio&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=timoncool/VoxCPM2_portable,timoncool/VoxCPM2_portable-pinokio&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=timoncool/VoxCPM2_portable,timoncool/VoxCPM2_portable-pinokio&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="docs/stars-dark.svg" />
+   <source media="(prefers-color-scheme: light)" srcset="docs/stars-light.svg" />
+   <img alt="Star History Chart" src="docs/stars-light.svg" />
  </picture>
 </a>
 
